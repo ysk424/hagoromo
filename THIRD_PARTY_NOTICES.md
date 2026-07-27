@@ -5,7 +5,7 @@
 The Windows x64 native library contains NVIDIA CUDA Runtime components linked
 statically from CUDA Toolkit 12.9. These NVIDIA components are distributed
 under the applicable NVIDIA CUDA Toolkit license terms and are not relicensed
-by this project's GPL license.
+by this project's MIT license.
 
 NVIDIA CUDA Toolkit license agreement:
 <https://docs.nvidia.com/cuda/eula/index.html>

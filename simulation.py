@@ -1,4 +1,4 @@
-# SPDX-License-Identifier: GPL-3.0-or-later
+# SPDX-License-Identifier: MIT
 """Yohsai 完成服を評価済みボディへ追従させる羽衣シミュレーション。"""
 
 from __future__ import annotations

@@ -1,4 +1,4 @@
-# SPDX-License-Identifier: GPL-3.0-or-later
+# SPDX-License-Identifier: MIT
 """Validate that an opened saved Yohsai file is usable after a Blender restart."""
 
 from __future__ import annotations

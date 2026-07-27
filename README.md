@@ -105,4 +105,4 @@ blender --background scene.blend --python tests\blender_saved_simulation_check.p
 
 ## ライセンス
 
-羽衣は GPL-3.0-or-later です。静的リンクした CUDA Runtime については [THIRD_PARTY_NOTICES.md](THIRD_PARTY_NOTICES.md) を参照してください。
+羽衣は MIT です。静的リンクした CUDA Runtime については [THIRD_PARTY_NOTICES.md](THIRD_PARTY_NOTICES.md) を参照してください。

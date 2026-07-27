@@ -1,4 +1,4 @@
-# SPDX-License-Identifier: GPL-3.0-or-later
+# SPDX-License-Identifier: MIT
 """ctypes bridge for the versioned native square-lattice cloth solver."""
 
 from __future__ import annotations

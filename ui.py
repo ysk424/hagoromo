@@ -1,4 +1,4 @@
-# SPDX-License-Identifier: GPL-3.0-or-later
+# SPDX-License-Identifier: MIT
 """羽衣 — 簡易アニメーション用 N パネル。"""
 
 from __future__ import annotations

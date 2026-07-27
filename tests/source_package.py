@@ -1,4 +1,4 @@
-# SPDX-License-Identifier: GPL-3.0-or-later
+# SPDX-License-Identifier: MIT
 """Load the repository root as an isolated Blender extension package."""
 
 from __future__ import annotations

@@ -1,4 +1,4 @@
-// SPDX-License-Identifier: GPL-3.0-or-later
+// SPDX-License-Identifier: MIT
 // Device-resident CUDA implementation of Hagoromo's square-lattice cloth solver.
 
 #include "solver.hpp"

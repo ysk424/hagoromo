@@ -1,4 +1,4 @@
-// SPDX-License-Identifier: GPL-3.0-or-later
+// SPDX-License-Identifier: MIT
 #include "hagoromo_cosserat/c_api.h"
 
 #include <algorithm>

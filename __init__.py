@@ -1,4 +1,4 @@
-# SPDX-License-Identifier: GPL-3.0-or-later
+# SPDX-License-Identifier: MIT
 """羽衣 — Yohsai 完成服向けの簡易 GPU 布アニメーション。"""
 
 from __future__ import annotations

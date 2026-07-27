@@ -1,4 +1,4 @@
-# SPDX-License-Identifier: GPL-3.0-or-later
+# SPDX-License-Identifier: MIT
 """Run one non-saving Hagoromo interval against an opened production Yohsai file."""
 
 from __future__ import annotations

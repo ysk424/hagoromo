@@ -1,4 +1,4 @@
-# SPDX-License-Identifier: GPL-3.0-or-later
+# SPDX-License-Identifier: MIT
 """Headless integration check for restart-safe animated Body simulation."""
 
 from __future__ import annotations

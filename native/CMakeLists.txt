@@ -1,4 +1,4 @@
-# SPDX-License-Identifier: GPL-3.0-or-later
+# SPDX-License-Identifier: MIT
 
 add_library(hagoromo_cosserat SHARED
     src/c_api.cpp
