@@ -1,0 +1,39 @@
+schema_version = "1.0.0"
+
+id = "hagoromo"
+version = "0.1.0"
+name = "羽衣"
+tagline = "Yohsai 完成服向けの簡易 GPU 布ソルバ"
+maintainer = "Yoshihiko Tsukamoto <ysk424@hotmail.com>"
+type = "add-on"
+
+blender_version_min = "5.2.0"
+platforms = ["windows-x64"]
+
+license = ["SPDX:GPL-3.0-or-later"]
+
+tags = ["Modeling", "Pipeline"]
+
+[build]
+paths = [
+    "__init__.py",
+    "CMakeLists.txt",
+    "build_native.ps1",
+    "build_native.sh",
+    "ui.py",
+    "simulation.py",
+    "cosserat_native.py",
+    "README.md",
+    "CHANGELOG.md",
+    "docs/ARCHITECTURE.md",
+    "docs/CUDA_RELEASE_NOTES.md",
+    "THIRD_PARTY_NOTICES.md",
+    "LICENSE",
+    "bin/hagoromo_cosserat.dll",
+    "native/CMakeLists.txt",
+    "native/include/hagoromo_cosserat/c_api.h",
+    "native/src/solver.hpp",
+    "native/src/cuda_solver.cu",
+    "native/src/c_api.cpp",
+    "native/tests/test_solver.cpp",
+]
